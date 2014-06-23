@@ -23,12 +23,21 @@ knit        : slidify::knit2slides
 
 ## So what should you see?
 
-* So means should be identical $\bar{x} = \mu$
+* Random Distribution: <br/>
+<img alt="Initial random Distribution" src="assets/img/random.png" height="130px"/>
+
+* Distribution of sample means drawn from the Random Distribution: <br/>
+<img alt="Approximetely Normal Distribution of Sample Means" src="assets/img/normal.png" height="130px"/>
+
+* Means will be almost identical $\bar{x} = \mu$
 * And the following relationship will connect standard deviations: $\frac{\sigma}{\sqrt{n}} \rightarrow s $
 
 --- 
 
 ## Experiment and feel the theorem 
+
+* Experience CLT by playing with my app: <br/>
+<img alt="Central Limit Theorem App" src="assets/img/app.png" height="300px"></img>
 
 * Play around with the number of samples that will be produced out of our ever changing random distribution
 * Feel! how means are following each other 
